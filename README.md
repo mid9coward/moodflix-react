@@ -59,7 +59,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/mid9coward/moodflix-react.git
-cd moodflix
+cd moodflix-react
 ```
 
 **Installation**
